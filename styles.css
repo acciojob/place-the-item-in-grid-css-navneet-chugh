@@ -8,3 +8,15 @@
   height: 200px; /* Set the height of the grid container to 200px */
 }
 
+.item.item-1{
+	background-color: blue;
+}
+.item.item-2{
+	background-color: greenyellow;
+}
+.item.item-3{
+	background-color: red;
+}
+.item.item-4{
+	background-color: yellow;
+}
